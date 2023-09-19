@@ -3,7 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: All of my publications are available at Uliège institutional repository ORBi.
-years: [2023, 2021]
+years_papers: []
+years_conf: [2023, 2021]
 nav: true
 nav_order: 1
 ---
@@ -12,7 +13,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{%- for y in page.years %}
+{%- for y in page.years_papers %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
@@ -23,7 +24,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{%- for y in page.years %}
+{%- for y in page.years_conf %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f conf -q @*[year={{y}}]* %}
 {% endfor %}
