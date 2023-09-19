@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: All of my publications are available at Uliège institutional repository ORBi.
-years: [2021, 2022, 2023]
+years: [2023, 2021]
 nav: true
 nav_order: 1
 ---
