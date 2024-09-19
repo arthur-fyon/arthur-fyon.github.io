@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-03-17 15:59:00-0400
+date: 2024-06-25 15:59:00-0400
 inline: true
 ---
 
-I attended my very first in-person conference: [Cosyne](https://www.cosyne.org/) 2022 at Lisboa in Portugal :smile:, even if I had no posters to present.
+My poster "Neuromodulation robustly tunes rhythmic patterns in a fixed connectome: application to gait control" will be presented at the [FENS Forum 2024](https://fensforum.org/)!
