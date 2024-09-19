@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ## Teaching assistant
-- **2023 - Now: SYST0017 - Advanced Topics in Systems and Control**<br />
+- **2023 - Now: SYST0017 - Neurodynamics**<br />
 All course materials can be found on both [DoX](https://dox.uliege.be/index.php/s/ZogpDXz1k5urThl) and [myUliege](https://my.uliege.be/). The DoX password will be given in class.
 
 - **2021 - Now: ELEN0040 - Digital Electronics**<br />
