@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "All of my publications are available at Uliège institutional repository ORBi.",
+          description: "All of my publications are available at ULiège institutional repository ORBi.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
