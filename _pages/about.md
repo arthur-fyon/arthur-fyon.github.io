@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Post-doctoral researcher at Neuroengineering Lab of ULiège
 
@@ -22,9 +22,9 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a post-docral researcher at the [Neuroengineering Lab of ULiège](https://www.neuroengineering.uliege.be/cms/c_11384013/en/neuroengineering-laboratory) under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/) at the [University of Liège](https://www.uliege.be/cms/c_8699436/en/uliege) in Belgium. I am interested in computational neuroscience and neuromorphic system design. Previously, I got my PhD in 2025 and I graduated biomedical engineering (M.Sc.Eng.) in 2021 both at the University of Liège.
+I am a post-docral researcher at the [Neuroengineering Lab of ULiège](https://www.neuroengineering.uliege.be/) under the supervision of [Guillaume Drion](https://sites.google.com/site/gdrion25/) at the [University of Liège](https://www.uliege.be) in Belgium. I am interested in computational neuroscience and neuromorphic system design. Previously, I got my PhD in 2025 and I graduated biomedical engineering (M.Sc.Eng.) in 2021 both at the University of Liège.
