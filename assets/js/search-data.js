@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "Publications",
-          description: "All of my publications are available at ULiège institutional repository ORBi.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -406,6 +406,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-my-second-article-dimensionality-reduction-of-neuronal-degeneracy-reveals-two-interfering-physiological-mechanisms-is-now-available-at-pnas-nexus",
           title: 'My second article Dimensionality reduction of neuronal degeneracy reveals two interfering physiological mechanisms...',
+          description: "",
+          section: "News",},{id: "news-i-successfully-defended-my-phd-thesis-the-manuscript-is-now-available-here",
+          title: 'I successfully defended my PhD thesis! The manuscript is now available here.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
