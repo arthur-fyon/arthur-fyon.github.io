@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-09-18 15:59:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+My poster "Neuromodulation and Homeostasis: Complementary Mechanisms in Ion Channel Expression Adaptation for Robust Neural Function" will be presented in Bernstein 2023!

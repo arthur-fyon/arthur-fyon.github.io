@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - arthur-fyon
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - arthur-fyon/NmodController.jl
+  - arthur-fyon/CORR_2024
+  - arthur-fyon/BIOCONTROL_2025
