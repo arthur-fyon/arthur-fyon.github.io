@@ -408,7 +408,7 @@ ninja.data = [{
           title: 'My second article Dimensionality reduction of neuronal degeneracy reveals two interfering physiological mechanisms...',
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis-the-manuscript-is-now-available-here",
-          title: 'I successfully defended my PhD thesis! The manuscript is now available here.',
+          title: 'I successfully defended my PhD thesis. The manuscript is now available here.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
