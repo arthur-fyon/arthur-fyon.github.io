@@ -40,6 +40,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Best PhD Thesis award (AIM 2026)
     - year: 2021
       items:
         - Best Master Thesis award (AILg 2021)

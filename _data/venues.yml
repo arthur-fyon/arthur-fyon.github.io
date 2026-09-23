@@ -20,11 +20,32 @@
 "FENS":
   url: https://fensforum.org/
 
-"Fyon2023":
+"IFAC 2023":
   url: https://www.sciencedirect.com/science/article/pii/S2405896323020189
 
-"Fyon2024":
+"PNAS Nexus 2024":
   url: https://academic.oup.com/pnasnexus/article/3/10/pgae415/7762142
 
-"Thesis":
+"PhD Thesis":
   url: https://orbi.uliege.be/handle/2268/325229
+
+"bioRxiv 2025":
+  url: https://www.biorxiv.org/content/10.1101/2025.10.30.685563v1
+
+"arXiv 2026a":
+  url: https://arxiv.org/abs/2604.08312
+
+"PLOS CB 2026a":
+  url: https://doi.org/10.1371/journal.pcbi.1014177
+
+"arXiv 2026b":
+  url: https://arxiv.org/abs/2605.07936
+
+"arXiv 2026c":
+  url: https://arxiv.org/abs/2605.15216
+
+"PLOS CB 2026b":
+  url: https://doi.org/10.1371/journal.pcbi.1014337
+
+"ICML 2026":
+  url: https://arxiv.org/abs/2605.11855

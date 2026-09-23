@@ -44,3 +44,19 @@
 "sacre":
   - firstname: ["Pierre", "P."]
     url: https://sites.google.com/view/psacre/
+
+"brandoit":
+  - firstname: ["Julien", "J."]
+    url: https://julienbrandoit.github.io/
+
+"mendolia":
+  - firstname: ["Loris", "L."]
+    url: https://lorismendolia.github.io/
+
+"redoute":
+  - firstname: ["Jean-Michel", "J.-M."]
+    url: https://people.montefiore.uliege.be/jmredoute/
+
+"ernst":
+  - firstname: ["Damien", "D."]
+    url: https://damien-ernst.be/
